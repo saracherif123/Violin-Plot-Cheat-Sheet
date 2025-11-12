@@ -1,5 +1,7 @@
 # Violin Plot Cheat Sheet
 
+1-page visualization cheat sheet for Violin Plot
+
 ## Project Structure
 
 ```
@@ -32,4 +34,3 @@ python scripts/generate_pitfalls.py
 ```
 
 All generated images will be saved in the `output/` directory.
-
